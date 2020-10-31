@@ -1,10 +1,10 @@
 #TextSolve{
 	color: #FFFFFF;
 	background-color: #616161;
-	width: 70%;
+	width: 90%;
 	border-radius: 20px;
 	font-family: Andale Mono, monospace;
-	font-size: 200%;
+	font-size: 190%;
 }
 
 #CentralDiv{
@@ -12,7 +12,7 @@
 	margin-top: 15%;
 	margin-bottom: 10%;
 	width: 90%;
-	height: 55%;
+	height: 60%;
 	opacity: 0.9;
 	border-radius: 20px;
 }
@@ -24,7 +24,7 @@
 	margin-top: 15%;
 	margin: 3%;
 	background-color: #B7B7B7;
-	border-radius: 25px;
+	border-radius: 7%;
 }
 
 .Application:hover{
